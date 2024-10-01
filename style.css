@@ -30,7 +30,7 @@ body {
   margin-bottom: 1.5rem;
   letter-spacing: 2px;
   color: hsl(24, 5%, 18%);
-  font-weight: 700;
+  font-weight: 500;
 }
 @media only screen and (max-width: 23.4375em) {
   .heading-1 {
@@ -44,7 +44,7 @@ body {
   margin-bottom: 1.5rem;
   color: hsl(14, 45%, 36%);
   letter-spacing: 1px;
-  font-weight: 600;
+  font-weight: 500;
 }
 @media only screen and (max-width: 23.4375em) {
   .heading-2 {
@@ -82,7 +82,7 @@ object {
 
 li {
   padding-left: 1.5rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   font-family: inherit;
 }
 
@@ -134,7 +134,7 @@ tr:not(:last-child) td {
   border-bottom-left-radius: 1.5rem;
   border-bottom-right-radius: 1.5rem;
   padding: 2.5rem;
-  padding-top: 2rem;
+  padding-top: 2.25rem;
 }
 @media only screen and (max-width: 23.4375em) {
   .container {
